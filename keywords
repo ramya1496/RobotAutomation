@@ -1,0 +1,6 @@
+open browser = To open the browser
+close browser = To close the browser, it'll only close the last opened browser
+close all browsers  = To close all the opened browsers
+input text = To pass the value to the text box
+click element = To click on a particular element
+maximize browser window = To maximize the browser window
